@@ -1,0 +1,7 @@
+C:\Users\blorw\Dropbox\repos\MethodPrograms\MethodPrograms\bin\Debug\MethodPrograms.exe.config
+C:\Users\blorw\Dropbox\repos\MethodPrograms\MethodPrograms\bin\Debug\MethodPrograms.exe
+C:\Users\blorw\Dropbox\repos\MethodPrograms\MethodPrograms\bin\Debug\MethodPrograms.pdb
+C:\Users\blorw\Dropbox\repos\MethodPrograms\MethodPrograms\obj\Debug\MethodPrograms.csprojAssemblyReference.cache
+C:\Users\blorw\Dropbox\repos\MethodPrograms\MethodPrograms\obj\Debug\MethodPrograms.csproj.CoreCompileInputs.cache
+C:\Users\blorw\Dropbox\repos\MethodPrograms\MethodPrograms\obj\Debug\MethodPrograms.exe
+C:\Users\blorw\Dropbox\repos\MethodPrograms\MethodPrograms\obj\Debug\MethodPrograms.pdb

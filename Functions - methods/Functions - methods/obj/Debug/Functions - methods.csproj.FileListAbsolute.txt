@@ -1,0 +1,7 @@
+C:\Users\blorw\Dropbox\repos\Functions - methods\Functions - methods\bin\Debug\Functions - methods.exe.config
+C:\Users\blorw\Dropbox\repos\Functions - methods\Functions - methods\bin\Debug\Functions - methods.exe
+C:\Users\blorw\Dropbox\repos\Functions - methods\Functions - methods\bin\Debug\Functions - methods.pdb
+C:\Users\blorw\Dropbox\repos\Functions - methods\Functions - methods\obj\Debug\Functions - methods.csprojAssemblyReference.cache
+C:\Users\blorw\Dropbox\repos\Functions - methods\Functions - methods\obj\Debug\Functions - methods.csproj.CoreCompileInputs.cache
+C:\Users\blorw\Dropbox\repos\Functions - methods\Functions - methods\obj\Debug\Functions - methods.exe
+C:\Users\blorw\Dropbox\repos\Functions - methods\Functions - methods\obj\Debug\Functions - methods.pdb

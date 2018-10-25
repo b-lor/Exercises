@@ -1,0 +1,7 @@
+C:\Users\blorw\Dropbox\repos\Beginners\Beginners\bin\Debug\Beginners.exe.config
+C:\Users\blorw\Dropbox\repos\Beginners\Beginners\bin\Debug\Beginners.exe
+C:\Users\blorw\Dropbox\repos\Beginners\Beginners\bin\Debug\Beginners.pdb
+C:\Users\blorw\Dropbox\repos\Beginners\Beginners\obj\Debug\Beginners.csprojAssemblyReference.cache
+C:\Users\blorw\Dropbox\repos\Beginners\Beginners\obj\Debug\Beginners.csproj.CoreCompileInputs.cache
+C:\Users\blorw\Dropbox\repos\Beginners\Beginners\obj\Debug\Beginners.exe
+C:\Users\blorw\Dropbox\repos\Beginners\Beginners\obj\Debug\Beginners.pdb

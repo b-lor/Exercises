@@ -1,0 +1,7 @@
+C:\Users\blorw\Dropbox\repos\While loops and complex logic\While loops and complex logic\bin\Debug\While loops and complex logic.exe.config
+C:\Users\blorw\Dropbox\repos\While loops and complex logic\While loops and complex logic\bin\Debug\While loops and complex logic.exe
+C:\Users\blorw\Dropbox\repos\While loops and complex logic\While loops and complex logic\bin\Debug\While loops and complex logic.pdb
+C:\Users\blorw\Dropbox\repos\While loops and complex logic\While loops and complex logic\obj\Debug\While loops and complex logic.csprojAssemblyReference.cache
+C:\Users\blorw\Dropbox\repos\While loops and complex logic\While loops and complex logic\obj\Debug\While loops and complex logic.csproj.CoreCompileInputs.cache
+C:\Users\blorw\Dropbox\repos\While loops and complex logic\While loops and complex logic\obj\Debug\While loops and complex logic.exe
+C:\Users\blorw\Dropbox\repos\While loops and complex logic\While loops and complex logic\obj\Debug\While loops and complex logic.pdb
