@@ -1,7 +1,0 @@
-C:\Users\Bill\Desktop\Dropbox\repos\RPS\RPS\bin\Debug\RPS.exe.config
-C:\Users\Bill\Desktop\Dropbox\repos\RPS\RPS\bin\Debug\RPS.exe
-C:\Users\Bill\Desktop\Dropbox\repos\RPS\RPS\bin\Debug\RPS.pdb
-C:\Users\Bill\Desktop\Dropbox\repos\RPS\RPS\obj\Debug\RPS.csprojAssemblyReference.cache
-C:\Users\Bill\Desktop\Dropbox\repos\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
-C:\Users\Bill\Desktop\Dropbox\repos\RPS\RPS\obj\Debug\RPS.exe
-C:\Users\Bill\Desktop\Dropbox\repos\RPS\RPS\obj\Debug\RPS.pdb
